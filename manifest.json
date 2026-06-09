@@ -2,7 +2,7 @@
   "name": "Knight Rider KS edition",
   "short_name": "Knight Rider KS",
   "description": "Knight Rider KS edition - juego creado en Scratch",
-  "start_url": "/",
+  "start_url": "/Knight-Rider-KS-Edition/",
   "display": "fullscreen",
   "orientation": "any",
   "background_color": "#0f0f1a",
